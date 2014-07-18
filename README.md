@@ -1,4 +1,4 @@
-The Awesome Anime JavaScript Lesson
+The Awesome Anime JS Lesson
 =======================
 A ...
 
