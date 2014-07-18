@@ -1,30 +1,13 @@
-FIRSTLY,
-
-1. Clone this lesson to your runnable.com workspace:
-
-        git clone https://github.com/jfraboni/Lesson-Plan.git
-
-2. Next, change the setup command to include the url to your lesson plan on github!
-
-3. Use this link to learn the markdown to format your lesson:
-
-        https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-
-4. Delete these 4 steps and begin to edit your lesson plan!
-
-
-
-
-My Lesson
+The Awesome Anime JavaScript Lesson
 =======================
-A blurb about my lesson...
+A ...
 
 # Installation
 
 ### On runnable.com:
 Create a new node app, and from the terminal, enter or cut and paste the following commands, then press enter or return:
     
-    git clone https://github.com/myuser/my-lesson.git spark && spark/setup.sh
+    git clone https://github.com/Trumpetmaster/my-lesson--Anime.git spark && spark/setup.sh
     
 ...some text will fly by as the repository is cloned locally and the project is setup.
 
